@@ -26,11 +26,10 @@ El trabajo está estructurado en dos cuadernos ejecutables de Google Colab que a
 ## 🚀 Ejecución en Colab
 Puedes revisar y ejecutar los cuadernos directamente en Google Colab haciendo clic en los siguientes enlaces:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ENLACE_A_TU_CUADERNO_1_AQUI) **Bloques 1 y 2 (Breast Cancer & FIFA 19)**
+[![Open In Colab](https://colab.research.google.com/drive/1fMz7SiA2zrs1ciT55Lm02m2jaJrEShGn?usp=sharing)](ENLACE_A_TU_CUADERNO_1_AQUI) **Bloques 1 y 2 (Breast Cancer & FIFA 19)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ENLACE_A_TU_CUADERNO_2_AQUI) **Bloque 3 (Diabetes Prediction)**
+[![Open In Colab](https://colab.research.google.com/drive/1nPpWuWDQoXvm3n3MnfXkyDcb8-_GAw0z?usp=sharing)](ENLACE_A_TU_CUADERNO_2_AQUI) **Bloque 3 (Diabetes Prediction)**
 
-*(Nota: Reemplaza "ENLACE_A_TU_CUADERNO_X_AQUI" con los enlaces reales de tus cuadernos compartidos).*
 
 ---
 *Este proyecto fue desarrollado como parte de las evaluaciones prácticas de la Unidad II de la asignatura Minería de Datos.*
